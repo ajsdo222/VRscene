@@ -148,13 +148,13 @@
   ],
   "images": [
     {
-      "uri": "textures/wood_stick_08_100k_baseColor.jpeg"
+      "uri": "textures/wood_stick_08_100k_baseColor.jpg"
     },
     {
-      "uri": "textures/wood_stick_08_100k_normal.jpeg"
+      "uri": "textures/wood_stick_08_100k_normal.jpg"
     },
     {
-      "uri": "textures/wood_stick_08_100k_metallicRoughness.png"
+      "uri": "textures/wood_stick_08_100k_metallicRoughness.jpg"
     }
   ],
   "materials": [

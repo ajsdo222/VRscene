@@ -219,13 +219,13 @@
       "uri": "textures/Scene_-_Root_emissive.png"
     },
     {
-      "uri": "textures/Scene_-_Root_diffuse.png"
+      "uri": "textures/Scene_-_Root_diffuse.jpg"
     },
     {
       "uri": "textures/Scene_-_Root_specularGlossiness.png"
     },
     {
-      "uri": "textures/Scene_-_Root_normal.png"
+      "uri": "textures/Scene_-_Root_normal.jpg"
     }
   ],
   "materials": [

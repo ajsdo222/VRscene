@@ -1,0 +1,15 @@
+source,target,strength
+mammal,dog,0.7
+mammal,cat,0.7
+mammal,fox,0.7
+mammal,elk,0.7
+insect,ant,0.7
+insect,bee,0.7
+fish,carp,0.7
+fish,pike,0.7
+cat,elk,0.1
+carp,ant,0.1
+elk,bee,0.1
+dog,cat,0.1
+fox,ant,0.1
+pike,cat,0.1

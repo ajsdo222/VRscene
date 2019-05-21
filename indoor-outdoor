@@ -1,4 +1,4 @@
-countryCode,timestamp,indoor_value,outdoor_value
+countryCode,time,indoor,outdoor
 DEU,2018-07-19 17:00:00,4.093805556,16.81999969
 DEU,2018-07-20 02:00:00,8.668616667,16.82999992
 DEU,2018-07-20 17:00:00,10.54976667,23.97999954

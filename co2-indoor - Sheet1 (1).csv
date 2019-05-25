@@ -1,4 +1,4 @@
-countryCode,timestamp,value
+countryCode,time,indoor
 DEU,2018-07-19 16:00:00,560.5022727
 DEU,2018-07-19 17:00:00,407.2527778
 DEU,2018-07-19 20:00:00,653.0614035
